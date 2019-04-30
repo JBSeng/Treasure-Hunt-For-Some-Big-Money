@@ -1,0 +1,74 @@
+h1{
+    color:white;
+    font-size:25px;
+    position:relative;
+    left:750px;
+}
+body{
+    background-color:black;
+}
+p{
+    color:white;
+}
+.apple{
+    color:white;
+    font-size:20px;
+}
+.jik {
+    display:flex;
+    justify-content:center;
+}
+.shax {
+    color:white;
+    text-decoration:underline;
+    font-size: 30px;
+}
+.cake {
+    color:white;
+    text-align:center;
+    font-size:40px;
+    font-family: 'Abril Fatface', cursive;
+    text-decoration:underline;
+}
+button{
+    position:relative;
+    left:880px;
+}
+.fairy{
+    text-align:center;
+}
+.question{
+    color:white;
+    font-size:30px;
+    text-decoration:underline;
+}
+.pants{
+    color:white;
+    font-size:35px;
+    text-decoration:underline wavy ;
+}
+#stop{
+    color:white;
+    font-size:38px;
+}
+background{
+    background:url("https://media.giphy.com/media/tJtPzgE4jmmQg/giphy.gif");
+}
+.cayde {
+    margin:20px;
+    padding:20px;
+    color:blue;
+    position:relative;
+    left:10px;
+}
+h2 {
+    font-size:60px;
+}
+.spend{
+    width:500px;
+    height:500px;
+}
+.Wrong {
+    width:600px;
+    height:500px;
+}
